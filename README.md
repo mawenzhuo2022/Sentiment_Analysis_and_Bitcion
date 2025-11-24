@@ -240,7 +240,7 @@ All commands assume the working directory is the project root (`Bitcoin_Price_An
 
 ---
 
-### Results (very short summary)
+### Results (Summary)
 
 Full tables, plots, and a detailed discussion are in `reports/Bitcoin_Sentiment_Analysis_Report.pdf`.  
 At a high level:
